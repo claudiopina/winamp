@@ -13,9 +13,9 @@ La **música** es un relajante natural, libera de los problemas si es la
 adecuada, alegra el momento, en fin, juega mucho con los sentidos si el
 receptor esta en un estado emocional, incluso no es tan necesario eso ultimo... es por
 ello que he escogido un programa reproductor de música, ya que suelo
-escuchar mucha música.
+escuchar mucha.
 
-*Winamp* es un programa básico entre los reproductores de música más
+**Winamp** es un programa básico entre los reproductores de música más
 completos, pero aún así lo considero el mejor. Las razones son:
 + Es muy simple e intuitivo
 + Software libre
@@ -45,11 +45,34 @@ complementa el clásico reproductor de música con reproductor de vídeo,
 por lo que es más completo pero, considero que desde tal versión se pierde
 la esencia real del programa, que es la escasez de recursos que utiliza.
 
-###Conclusión
+#####Competencias en la actualidad
 
-aqui es donde me truqueo pero de lo lindo...mañana te quiero ver papa
+1. Reproductor de Windows Media Player
+2. Real Player
+3. iTunes
+4. AIMP
+5. Jet Audio
+
+###Pensamientos...
 
 
+>*En la música todos los sentimientos vuelven a su estado* 
+>*puro y el mundo no es sino música hecha realidad.*
+>
+>>*Arthur Schopenhauer (1788-1860) Filósofo alemán.*  
 
 
+>*Con la música, la vida tiene más sentido.*
+>
+>>*Alejandro Sanz (1968) músico español*
 
+
+>*El arte de la música es el que más cercano se halla de las lágrimas y los recuerdos.*
+>
+>>*Oscar Wilde (1854-1900) Dramaturgo ingles*
+
+
+>*La soledad es algo más que un espacio propio, es el momento de reflexión de cada cual.* 
+>*Ahora la música, es el único acompañante que tiene el privilegio de estar en esas situaciones.*
+>
+>>*Claudio Piña (1990) Estudiante errante*
