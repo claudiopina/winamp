@@ -1,10 +1,6 @@
 winamp
 ======
 
-Camilita Hermosa esto es un regalo para usted :D
-===
-        solo el titulo, el resto es mi tarea xD
-
 ###Tarea nº 1
 
 ######Ingeniería de Software
