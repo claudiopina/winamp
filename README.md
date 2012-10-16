@@ -45,7 +45,9 @@ complementa el clásico reproductor de música con reproductor de vídeo,
 por lo que es más completo pero, considero que desde tal versión se pierde
 la esencia real del programa, que es la escasez de recursos que utiliza.
 
+###Conclusión
 
+aqui es donde me truqueo pero de lo lindo...mañana te quiero ver papa
 
 
 
