@@ -24,7 +24,7 @@ completos, pero aún así lo considero el mejor. Las razones son:
 + Excelentes ecualicaciones por defecto
 + ...
 
-##Un poco de historia
+###Un poco de historia
 
 Originalmente lanzado en 1997 por dos chicos, el norteamericano [Justin Frankel](http://www.1014.org/) y 
 el ruso Dmitry Boldyre, Winamp rápidamente se convirtió en el estándar de reproducción 
